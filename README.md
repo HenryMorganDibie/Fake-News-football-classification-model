@@ -11,6 +11,6 @@ did some basic EDA to understand the structure of the data, including checking t
 * I then used the NLTK library to preprocess the text data, including removing stop words, punctuation, and stemming the words.
 * I experimented with different machine learning models such as logistic regression, decision tree, and random forest. I also compared their performances using evaluation metrics such as accuracy, precision, recall, and F1-score.
 also, I to fine-tuned the models by adjusting hyperparameters, performing feature engineering, and implementing cross-validation. 
-* I then selected logistic regression model as it was the best performing model on the preprocessed data, so I evaluated its performance using cross-validation.
+* I then selected logistic regression model as it was the best performing model on the preprocessed data, so I evaluated its performance using cross-validation and confusion matrix
 * Finally, I did some error analysis on the misclassified samples to gain insights into the weaknesses of the model and potential ways to improve it.
 Overall, I have done a comprehensive analysis of the tweet dataset, including data cleaning, exploratory data analysis, text preprocessing, and model training and evaluation. 
