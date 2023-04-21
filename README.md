@@ -6,7 +6,7 @@ I built a classification model that can accurately detect whether the news is re
 * I loaded two datasets of real and fake tweets respectively.
 * I merged the two datasets into one dataframe and cleaned it, thereafter I 
 did some basic EDA to understand the structure of the data, including checking the data types, missing values, and duplicates.
-* I did some further EDA on the combined dataset, including creating word clouds, frequency plots, and distribution of tweet lengths.
+* I did some more EDA on the combined dataset, including creating word clouds, frequency plots, and distribution of tweet lengths.
 * I also performed language analysis and user analysis to extract the most common languages used and the most active users in the dataset.
 * I then used the NLTK library to preprocess the text data, including removing stop words, punctuation, and stemming the words.
 * I experimented with different machine learning models such as logistic regression, decision tree, and random forest. I also compared their performances using evaluation metrics such as accuracy, precision, recall, and F1-score.
